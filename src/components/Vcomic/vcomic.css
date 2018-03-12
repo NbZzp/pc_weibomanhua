@@ -1,0 +1,23 @@
+.vcomicWrap{
+    width: 670px;
+    height: 400px;
+    margin-bottom: 20px;
+    float: left;
+    overflow: hidden
+}
+.vcomivCont *{
+    float:left;
+    border: 1px solid #000;
+}
+.vcomivCont{
+    overflow: hidden;
+}
+.vcomicBig{
+    width: 329px;
+    height: 330px;
+}
+.vcomicLittle{
+    width: 100px;
+    height: 164px;
+    
+}
